@@ -1,0 +1,47 @@
+Group,Species,Collision Season,Collision Above,Collision Below,Collision Vessel,Threat Disturbance,Threat Pollution,Threat Entrapment,Conservation BoCC3,Conservation Biogeographic,Conservation SPEC
+Seaducks,Greater scaup ,w ,2,2,2,2,2,2,Red ,1,SPEC 3W 
+Seaducks,Common eider ,b/w ,3,2,2,1,2,2,Amber ,1,Non-SPEC 
+Seaducks,Long-tailed duck ,w ,2,2,2,2,2,2,Green ,1,Non-SPEC 
+Seaducks,Common scoter ,w ,2,2,2,2,2,2,Red ,1,Non-SPEC 
+Seaducks,Velvet scoter ,w ,2,2,2,2,2,2,Amber ,1,Non-SPEC 
+Seaducks,Goldeneye ,w ,2,2,2,1,2,2,Amber ,1,Non-SPEC 
+Seaducks,Red-breasted merganser ,w ,2,2,2,1,3,3,Green ,1,Non-SPEC 
+Divers,Red-throated diver ,b ,2,2,1,3,3,3,Amber ,2,SPEC 3 
+Divers,Red-throated diver ,w ,2,2,2,3,3,3,Amber ,2,
+Divers,Black-throated diver ,b ,2,2,1,3,3,3,Amber ,1,SPEC 3 
+Divers,Black-throated diver ,w ,2,2,2,3,3,3,Amber ,1,
+Divers,Great northen diver ,w ,2,2,2,3,3,3,Amber ,2,Non-SPEC 
+Fulmar,Northern fulmar ,b/w ,3,1,1,1,1,1,Amber ,1,Non-SPEC 
+Shearwaters,Great shearwater ,p ,3,1,1,1,1,1,Green ,1,NE 
+Shearwaters,Sooty shearwater ,p ,3,2,1,1,1,2,Amber ,1,SPEC 1 
+Shearwaters,Manx shearwater ,b ,3,1,1,1,1,1,Amber ,3,SPEC 2 
+Shearwaters,Balearic shearwater ,p ,3,1,1,1,1,1,Red ,1,SPEC 1 
+Storm petrels,European storm petrel ,b ,3,1,1,1,1,1,Amber ,1,Non-SPEC 
+Storm petrels,Leach's storm petrel ,b ,3,1,1,1,1,1,Amber ,1,SPEC 3 
+Grebes,Great-crested grebe ,w ,2,2,2,2,2,2,Green ,1,Non-SPEC 
+Grebes,Red-necked grebe ,w ,2,2,2,2,2,2,Amber ,1,Non-SPEC 
+Grebes,Slavonian grebe ,w ,2,2,2,2,2,2,Amber ,1,SPEC 3 
+Gannet,Gannet ,b/w ,1,3,1,1,1,2,Amber ,3,Non-SPEC 
+Cormorants,Cormorant ,b/w ,3,2,1,1,1,3,Green ,2,Non-SPEC 
+Cormorants,Shag ,b/w ,2,2,1,2,1,3,Amber ,2,Non-SPEC 
+Skuas,Pomarine skua ,p ,1,1,1,1,1,1,Green ,1,Non-SPEC 
+Skuas,Arctic skua ,b ,1,1,1,1,1,1,Red ,1,Non-SPEC 
+Skuas,Great skua ,b ,1,1,1,1,1,1,Amber ,3,Non-SPEC 
+Gulls,Kittiwake,b/w ,2,1,1,1,1,1,Amber ,1,Non-SPEC 
+Gulls,Black-headed gull ,b/w ,1,1,1,1,1,1,Green ,1,Non-SPEC 
+Gulls,Little gull ,w ,2,1,1,1,1,1,Amber ,1,SPEC 3 
+Gulls,Common gull ,b/w ,1,1,2,1,1,1,Amber ,1,SPEC 2 
+Gulls,Lesser black-backed gull ,b/w ,1,1,2,1,1,1,Amber ,3,Non-SPEC 
+Gulls,Herring gull ,b/w ,1,1,2,1,1,1,Red ,1,Non-SPEC 
+Gulls,Iceland gull ,w ,1,1,2,1,1,1,Amber ,1,Non-SPEC 
+Gulls,Glaucous gull ,w ,1,1,2,1,1,1,Amber ,1,Non-SPEC 
+Gulls,Great black-backed gull ,b/w ,1,1,2,1,1,1,Amber ,2,Non-SPEC 
+Terns,Little tern ,b ,2,1,1,1,1,1,Amber ,1,SPEC 3 
+Terns,Sandwich tern ,b ,1,1,1,1,1,1,Amber ,2,SPEC 2 
+Terns,Common tern ,b ,2,1,2,1,1,1,Amber ,1,Non-SPEC 
+Terns,Roseate tern ,b ,2,1,1,1,1,1,Red ,1,SPEC 3 
+Terns,Arctic tern ,b ,2,1,1,1,1,1,Amber ,1,Non-SPEC 
+Auks,Guillemot ,b/w ,2,2,2,2,3,3,Amber ,2,Non-SPEC 
+Auks,Razorbill ,b/w ,2,2,2,2,3,3,Amber ,1,Non-SPEC 
+Auks,Black guillemot ,b/w ,2,2,2,2,3,3,Amber ,1,SPEC 2 
+Auks,Puffin ,b/w ,2,2,2,2,3,3,Amber ,1,SPEC 2 
